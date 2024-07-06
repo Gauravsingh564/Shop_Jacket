@@ -24,6 +24,7 @@ nav{
     justify-content: flex-end;
     gap: 20px;
     cursor: pointer;
+    background-color: #ddd;
     
 }
 
